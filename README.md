@@ -1,5 +1,5 @@
 ## 424-web-example 
-Learning example repositor for ISOM 424 students.
+Learning example repository for ISOM 424 students.
 
 ## Introduction
 This project enables us to learn source code control using Git.
